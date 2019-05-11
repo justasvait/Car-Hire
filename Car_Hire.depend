@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1489507476 source:c:\acse\2 semester\acs223\individual c++ assignment\car_hire\main.cpp
+	"Garage.h"
+	"Car.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<stack>
+
+1489507613 c:\acse\2 semester\acs223\individual c++ assignment\car_hire\include\garage.h
+	<string>
+	<stack>
+
+1489507623 c:\acse\2 semester\acs223\individual c++ assignment\car_hire\include\car.h
+
+1489504682 source:c:\acse\2 semester\acs223\individual c++ assignment\car_hire\src\car.cpp
+	"Car.h"
+	<stdlib.h>
+	<time.h>
+
+1489503991 source:c:\acse\2 semester\acs223\individual c++ assignment\car_hire\src\garage.cpp
+	"Garage.h"
+	<iostream>
+	<fstream>
+	<string>
+	<stack>
+	<sstream>
+
+1488983720 source:c:\acse\2 semester\acs223\individual c++ assignment\car_hire\testing.cpp
+	<iostream>
+	<string>
+
+1489511076 source:c:\users\justas\desktop\jobs\!github projects\car_hire\main.cpp
+	"Garage.h"
+	"Car.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<stack>
+
+1489511213 c:\users\justas\desktop\jobs\!github projects\car_hire\include\garage.h
+	<string>
+	<stack>
+
+1489511223 c:\users\justas\desktop\jobs\!github projects\car_hire\include\car.h
+
+1489508282 source:c:\users\justas\desktop\jobs\!github projects\car_hire\src\car.cpp
+	"Car.h"
+	<stdlib.h>
+	<time.h>
+
+1489507591 source:c:\users\justas\desktop\jobs\!github projects\car_hire\src\garage.cpp
+	"Garage.h"
+	<iostream>
+	<fstream>
+	<string>
+	<stack>
+	<sstream>
+
